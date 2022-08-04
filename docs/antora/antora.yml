@@ -1,10 +1,10 @@
-name: peacetrue-template-antora
-title: Antora 模板项目
+name: peacetrue-modules
+title: 模块仓库
 version: master
 asciidoc:
   attributes:
     numbered: '@'
-    source-options: '%snowrap@'
+    app-name: peacetrue-modules
 start_page: ROOT:index.adoc
 nav:
   - modules/ROOT/nav.adoc

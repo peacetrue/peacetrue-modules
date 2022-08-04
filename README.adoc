@@ -1,5 +1,5 @@
-= Antora 模板项目
+= 模块仓库
 peace <xiayouxue@hotmail.com>
-v1.0, 2019-10-16: SNAPSHOT
+v1.0, 2022-08-04: SNAPSHOT
 
-详情参考 https://peacetrue.cn/summarize/index.html[安宁的博客^]。
+详情参考 https://peacetrue.cn/summarize/peacetrue-modules/index.html[安宁的博客^]。
